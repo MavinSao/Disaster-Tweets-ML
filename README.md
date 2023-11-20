@@ -5,3 +5,11 @@ Natural Language Processing with Disaster Tweets Predict which Tweets are about 
 
 # Kaggle Competeion
 https://www.kaggle.com/competitions/nlp-getting-started/overview/description
+
+@misc{nlp-getting-started,
+    author = {Addison Howard, devrishi, Phil Culliton, Yufeng Guo},
+    title = {Natural Language Processing with Disaster Tweets},
+    publisher = {Kaggle},
+    year = {2019},
+    url = {https://kaggle.com/competitions/nlp-getting-started}
+}
